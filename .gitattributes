@@ -1,1 +1,4 @@
+*.erb linguist-language=Ruby
 public/* linguist-generated=true
+public/stylesheets/* linguist-generated=true
+data/ linguist-generated=true
